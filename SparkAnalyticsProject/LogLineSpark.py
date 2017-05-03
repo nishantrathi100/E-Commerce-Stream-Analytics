@@ -41,7 +41,7 @@ def main(sc, filename):
 
     trafficByUrl = loglines.map(lambda line: line[1]).countByValue()
     print trafficByUrl
-    trafficByUrl.saveToCassandra("ECommerceAnalytics","dailysummary1")
+    #trafficByUrl.saveToCassandra("ECommerceAnalytics","dailysummary1")
 
 
     #userByGeography = loglines.groupBy(lambda line: (line[2])).groupBy(lambda line: line[1].length)

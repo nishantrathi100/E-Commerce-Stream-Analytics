@@ -29,8 +29,8 @@ Finally, they will be able to view suggested items based on their popularity via
 
 
 ## High Level Architecture
-![picture alt](images/architecture.png)
+![picture alt](Site/images/architecture.png)
 
 
 ## Scorecard
-![picture alt](images/scorecard.png)
+![picture alt](Site/images/scorecard.png)

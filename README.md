@@ -31,6 +31,22 @@ Finally, they will be able to view suggested items based on their popularity via
 ## High Level Architecture
 ![picture alt](Site/images/architecture.png)
 
+## Screenshots
+![picture alt](Site/images/a1.png)
+![picture alt](Site/images/a2.png)
+![picture alt](Site/images/a3.png)
+![picture alt](Site/images/a4.png)
+![picture alt](Site/images/a5.png)
+![picture alt](Site/images/a6.png)
+![picture alt](Site/images/a7.png)
+![picture alt](Site/images/a8.png)
+![picture alt](Site/images/a9.png)
+![picture alt](Site/images/b1.png)
+![picture alt](Site/images/b2.png)
+![picture alt](Site/images/b3.png)
+![picture alt](Site/images/b4.png)
+![picture alt](Site/images/b5.png)
+
 
 ## Scorecard
 ![picture alt](Site/images/scorecard.png)
